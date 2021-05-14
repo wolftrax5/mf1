@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "Micro frontend app1 example",
   "main": "index.js",
-  "author": "Alejandro Medina <alejandro.medinar@agilethought.com>",
   "license": "MIT",
   "private": true,
   "devDependencies": {
@@ -26,5 +25,7 @@
     "build": "webpack --mode production",
     "serve": "serve dist -p 3010",
     "clean": "rm -rf dist"
-  }
+  },
+  "repository": "https://github.com/wolftrax5/mf1.git",
+  "author": "Alejandro Medina <5almero5@gmail.com> (https://github.com/wolftrax5)"
 }
